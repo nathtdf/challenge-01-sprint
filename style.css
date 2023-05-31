@@ -1,0 +1,177 @@
+body{
+	padding: 2px;
+	margin: 0px;
+	background: #FCEFDD;
+}
+.quadrado{
+	margin: auto;
+	width: 960px;
+	height: 650px;
+	padding: 5px;
+	
+}
+.logo {
+	width: 70%;
+	float: left;
+	
+}
+.logo-img{
+	margin-top: 1%;
+	margin-left: 5%;
+	float: inherit;
+}
+
+.direita {
+	float: right;
+	width: 30%;
+	height: 100%;
+	border-radius: 32px;
+	background: #FFFFFF;
+	box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+}
+
+#love-img{
+	margin-left: 5%;
+	margin-top: 50%;
+	width: 90%;
+	height: auto;
+}
+#texto-quadro{
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 18px;
+	font-family: arial;
+	font-weight: bold;
+	color: #F9544F;
+}
+
+#texto-quadro2{
+	float: left;
+	margin-left: 10%;
+	width: 80%;
+	height: 60%;
+	font-family: arial;
+	border: none;
+	background: none;
+	outline: none;
+	text-align: center;
+	color: #F9544F;
+	font-size: 16px;
+}
+
+#copiar{
+	margin-left: 20%;
+	margin-top: 90%;
+	display: none;
+	padding: 24px;
+	width: 60%;
+	height: 10%;
+	border-radius: 24px;
+	background: #FFFFFF;
+	border: 2px solid #F9544F;
+	color: #F9544F;
+	font-size: 14px;
+	font-family: arial;
+	position: relative;
+	
+}
+
+.esquerda{
+	float: left;
+	width: 70%;
+	height: 70%;
+	border-radius: 24px;
+}
+
+.texto-input{
+	float: left;
+	margin-left: 25%;
+	margin-top: 10%;
+	width: 80%;
+	height: auto;
+	color: #F9544F;
+	font-size: 20px;
+	font-family: arial;
+	border: none;
+	background: none;
+	outline: none;
+	}
+
+.botao-direita{
+	float: left;
+	width: 70%;
+	height: auto;
+	border-radius: 24px;	
+}
+
+.texto-aviso{
+	display: inline-block;
+    margin-left: 0%;
+    color: #F9544F;
+    text-align: left;
+    font-family: arial;
+}
+
+.aviso-img{
+	width: 12px;
+	margin-left: 8%;
+}
+
+#bcriptografar {
+	padding: 24px;
+	width: 40%;
+	height: 60%;
+	border-radius: 24px;
+	margin-left: 8%;
+	background: #F9544F;
+	border: 2px solid #F9544F;
+	color: #FCD194;
+	font-size: 14px;
+
+}
+#bdescriptografar{
+	padding: 24px;
+	width: 40%;
+	height: 60%;
+	border-radius: 24px;
+	margin-left: 5%;
+	background: #FCD194;
+	border: 2px solid #F9544F;
+	color: #F9544F;
+	font-size: 14px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+ 
+}
+.copyright {
+	color: #F9544F;
+}
+
+.icones-sociais{
+	display: flex;
+}
+
+.social-media{
+	display: block;
+	width: 40px;
+    height: 40px;
+}
+
+li {
+	list-style-type: none;
+}
+
+
+
+	
+
+
+
+
+
